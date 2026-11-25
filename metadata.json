@@ -1,0 +1,6 @@
+{
+  "name": "TurboTranscribe AI - Transcriptor de Videos y Redes Sociales",
+  "description": "Transcribe guiones de videos de TikTok, Instagram, Facebook y archivos con máxima precisión. Copia guiones, descarga videos y exporta subtítulos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
